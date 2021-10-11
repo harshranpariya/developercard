@@ -1,6 +1,6 @@
 ## Hi there ! I'm Harsh Ranpariya. Nice to meet you !
 
-# Usage
+## Usage
 
 ```bash
 npx harshranpariya
